@@ -1,0 +1,2 @@
+include ':app', ':simplecalculator'
+rootProject.name='LibTest'
