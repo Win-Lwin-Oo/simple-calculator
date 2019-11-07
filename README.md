@@ -14,5 +14,5 @@ allprojects {
   
 
 	dependencies {
-	        implementation 'com.github.Win-Lwin-Oo:simple-calculator:Tag'
+	        implementation 'com.github.Win-Lwin-Oo:simple-calculator:1.0'
 	}
