@@ -7,7 +7,8 @@ Simple add, subtract, multiply, division
 	    repositories {
 	    	...
 		maven {
-		    url 'https://jitpack.io' }
+		    url 'https://jitpack.io'
+		    }
 	    }
 	}
   
